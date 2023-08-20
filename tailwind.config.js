@@ -10,6 +10,9 @@ module.exports = {
         'color-yellow': '#fcc302',
         'color-green': '#00bec9',
       },
+      backgroundImage: {
+        'doctor-dog': "url('/images/doctor-dog.jpg')",
+      },
     },
   },
   plugins: [],
