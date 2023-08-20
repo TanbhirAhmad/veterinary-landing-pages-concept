@@ -7,8 +7,9 @@ module.exports = {
         'Poppins': ['Poppins'],
       },
       colors: {
-        'color-yellow': '#fcc302',
-        'color-green': '#00bec9',
+        'custom-green': '#00bec9',
+        'custom-yellow': '#fcc302',
+        'custom-yellow-transparent': '#f0c31fbb',
       },
       backgroundImage: {
         'doctor-dog': "url('/images/doctor-dog.jpg')",
